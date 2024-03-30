@@ -1,3 +1,3 @@
 # The program is just a tinkering project
 
-The numbers gerated are only pseudo-random
+The numbers generated are **only** pseudo-random
